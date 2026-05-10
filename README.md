@@ -7,8 +7,18 @@ Este repo integra **GitHub + Música** de forma épica: guarda episodios, mixes,
 ## 📌 Último episodio detectado (de tu Gmail)
 - **Episodio 1276** - Residency Mix by Ferry Corsten
 - **Fecha**: 7 de mayo de 2026
-- **YouTube Live**: [Ver en YouTube](https://www.youtube.com/watch?v=... ) *(enlace del email)*
 - **Descripción**: Armin van Buuren - A State of Trance Episode 1276 - Residency Mix by Ferry Corsten.
+
+## 📱 ¡Escúchalo YA en tu móvil!
+**Enlaces directos para pinchar y reproducir al instante**:
+
+- **🎥 YouTube App** (vídeo completo del live, casi 2 horas):  
+  [▶️ Ver y escuchar en YouTube](https://www.youtube.com/watch?v=KC5kNsHYHpM)
+
+- **🎧 Spotify App** (playlist oficial de todos los episodios ASOT - ideal para fondo o coche):  
+  [▶️ Reproducir en Spotify](https://open.spotify.com/playlist/2Ps64TVbfmfX6jxWJnlX1j)
+
+- **YouTube Music / Apple Music**: Busca "A State of Trance Episode 1276" o abre la playlist de Spotify y sincroniza.
 
 ## 🚀 ¿Qué puedes hacer aquí?
 - **Explorar episodios** históricos y nuevos
